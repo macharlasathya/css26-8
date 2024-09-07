@@ -1,0 +1,13 @@
+header{
+    background-color: aquamarine;
+    position: sticky;
+    border: 2px solid red;
+    width: 100%;
+   
+    left: 200px;
+    }
+.head
+    {
+font-size: 200px;
+color: red;
+    }

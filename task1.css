@@ -1,0 +1,68 @@
+header{
+    background-color: red;
+    padding: 30px 700px 30px 700px ;
+    color: white;
+    position: fixed;
+    top: 0px;
+    width: 90%;
+   }
+   .head
+   {
+  margin: 400px 600px 400px 600px;
+   }
+   .i1{
+    border: 2px solid red;
+  border-radius: 20px;
+   
+   }
+   .head1
+   {
+    z-index: -1;
+  position: absolute;
+  top: 120px;
+}
+.head2
+{   z-index: -1;
+    position: absolute;
+    top:350px;
+}
+.head3
+{
+    z-index: -1;
+    position: absolute;
+    top:120px;
+    left: 1300px;
+}
+.head4
+{    z-index: -1;
+    position: absolute;
+    top:350px;
+    left: 1300px;
+}
+.head5
+{    
+     z-index: -1;
+    position:absolute ;
+    top:600px;
+
+}
+.head6
+{    
+     z-index: -1;
+    position: absolute;
+    top:850px;
+}
+.head7
+{   
+      z-index: -1;
+    position: absolute;
+    left:1300px;
+    top:600px;
+}
+.head8
+{
+    z-index: -1;
+    position: absolute;
+    left: 1300px;
+    top:850px;
+}
